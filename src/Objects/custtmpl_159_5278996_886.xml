@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_159_5278996_886" standard="STDTMPLMULTICURRSTMT">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>STATEMENT</printtype>
+  <title>CYMAQ Multi-currency Statement Template 3</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
