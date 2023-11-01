@@ -1,0 +1,9 @@
+<advancedpdftemplate scriptid="custtmpl_146_5278996_840" standard="STDTMPLCUSTINVCST">
+  <description></description>
+  <displaysourcecode>T</displaysourcecode>
+  <isinactive>F</isinactive>
+  <preferred>F</preferred>
+  <printtype>TRANSACTION</printtype>
+  <title>EFX FE - INVOICE CYMAQ</title>
+  <trantype>CUSTINVC</trantype>
+</advancedpdftemplate>
